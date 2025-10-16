@@ -1,0 +1,28 @@
+body {
+  font: normal 16px/1.5 "Source Sans Pro", sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 1rem;
+}
+
+h1,
+h2 {
+  font-weight: 300;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  border-bottom: 2px solid #ddd;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+label {
+  margin-left: auto;
+}
